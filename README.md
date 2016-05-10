@@ -33,11 +33,7 @@ The application uses:
 The deployed application would be accessible on the following URL: <BR>
 `https://angularnorthwindapp-pXXXXXtrial.dispatcher.hanatrial.ondemand.com`
 
-**Note:** Replace `pXXXXX` with your SCN User ID that was registered with HCP during signup. 
-
-You should see a table displaying list of invoices.
-
-![Invoices](http://scn.sap.com/servlet/JiveServlet/showImage/38-141305-938361/Fial.png)
+**Note:** Replace `pXXXXX` with the SCN User ID that you provided during registration.
 
 
 
