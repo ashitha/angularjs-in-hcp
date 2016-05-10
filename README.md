@@ -7,9 +7,9 @@ for UI development in the SAP HANA Cloud Platform.
 
 The application uses:
 
-- Angular JS as the client side framework that helps in development of UI applications by providing MVC/MVVM features,data binding etc.
-- The Northwind OData service as the back-end service for fetching data (of course any RESTful API can be used here, not necessarily an OData service).
-- Bootstrap as the client side framework for styling the application.
+- [Angular JS](https://angularjs.org/) as the client side framework that helps in development of UI applications by providing MVC/MVVM features,data binding etc.
+- The [Northwind OData service](http://services.odata.org/V4/Northwind/Northwind.svc/) as the back-end service for fetching data (of course any RESTful API can be used here, not necessarily an OData service).
+- [Bootstrap](http://services.odata.org/V4/Northwind/Northwind.svc/) as the client side framework for styling the application.
 
 ## How to run it?
 
