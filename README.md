@@ -27,7 +27,7 @@ The application uses:
 
 ##### Step 2: Configure the Northwind OData service destination in the HCP cockpit
 
-- Import the destination file available at `[angularnorthwindapp/destination/northwind]`(angularnorthwindapp/destination/northwind) into the HCP cockpit - [details](https://help.hana.ondemand.com/help/frameset.htm?a2550c3fcf2b430f94f99072677bf9ec.html).
+- Import the destination file available at [angularnorthwindapp/destination/northwind](angularnorthwindapp/destination/northwind) into the HCP cockpit - [details](https://help.hana.ondemand.com/help/frameset.htm?a2550c3fcf2b430f94f99072677bf9ec.html).
 
 ##### Step 3: Launch the application
 The deployed application would be accessible on the following URL: <BR>
@@ -36,6 +36,9 @@ The deployed application would be accessible on the following URL: <BR>
 **Note:** Replace `pXXXXX` with your SCN User ID that was registered with HCP during signup. 
 
 You should see a table displaying list of invoices.
+
+![Invoices](http://scn.sap.com/servlet/JiveServlet/showImage/38-141305-938361/Fial.png)
+
 
 
 
