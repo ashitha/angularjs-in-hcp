@@ -14,16 +14,16 @@ The application uses:
 ## How to run it?
 
 ##### Pre-requisites:
-- You should have an [HCP developer(trial)](https://account.hanatrial.ondemand.com/cockpit) account to execute the steps mentioned below.
+- You should have an [HCP developer(trial) account](https://account.hanatrial.ondemand.com/cockpit) to execute the steps mentioned below.
 - You should be familiar with basics of developing HTML5 applications,AngularJS and Bootstrap.
 
-##### Step 1: Copy the application code into your HCP developer trial account
+##### Step 1: Copy the application code into your HCP trial account
 
 - Clone the repository or download the repository ZIP. If you download the repository as a ZIP file, unzip it. 
-- Within the repository folder, right click on the **angularnorthwindapp** folder and create an application archive by name `angularnorthwindapp.zip`.
+- Within the repository folder, right click on the **angularnorthwindapp** folder and create an application archive named `angularnorthwindapp.zip`.
 - Import this archive as an HTML5 application in the HCP cockpit - [details](https://help.hana.ondemand.com/help/frameset.htm?b8d879c30b44455d906bfa4c35b8221d.html). <BR>
   During import, provide the **Application Name** as `angularnorthwindapp` and **Version Name** as `1.0`.
-- [Activate this version](https://help.hana.ondemand.com/help/frameset.htm?dfaaf837ca5f4ff8bb25907a342a1416.html).
+- [Activate](https://help.hana.ondemand.com/help/frameset.htm?dfaaf837ca5f4ff8bb25907a342a1416.html) this version of the application.
 
 ##### Step 2: Configure the Northwind OData service destination in the HCP cockpit
 
