@@ -19,9 +19,9 @@ The application uses:
 
 ##### Step 1: Copy the application code into your HCP trial account
 
-- Clone the repository or download the repository ZIP. If you download the repository as a ZIP file, unzip it. 
+- Clone the repository or download the repository ZIP to your file system. If you download the repository as a ZIP file, unzip it. 
 - Within the repository folder, right click on the **angularnorthwindapp** folder and create an application archive named `angularnorthwindapp.zip`.
-- Import this archive as an HTML5 application in the HCP cockpit - [details](https://help.hana.ondemand.com/help/frameset.htm?b8d879c30b44455d906bfa4c35b8221d.html). <BR>
+- Import this archive as an HTML5 application into HCP - [details](https://help.hana.ondemand.com/help/frameset.htm?b8d879c30b44455d906bfa4c35b8221d.html). <BR>
   During import, provide the **Application Name** as `angularnorthwindapp` and **Version Name** as `1.0`.
 - [Activate](https://help.hana.ondemand.com/help/frameset.htm?dfaaf837ca5f4ff8bb25907a342a1416.html) this version of the application.
 
@@ -35,6 +35,8 @@ The deployed application would be accessible on the following URL: <BR>
 
 **Note:** Replace `pXXXXX` with the SCN User ID that you provided during registration.
 
+## Editing the application
+You can edit this appplication by cloning the Git repository into the SAP Web IDE. Refer to the [SCN blog](http://scn.sap.com/community/developer-center/cloud-platform/blog/2016/04/25/developing-an-angularjs-application-on-the-sap-hana-cloud-platform) for details.
 
 
 
