@@ -3,7 +3,7 @@
 ##What is it?
 
 This is a sample HTML5 application that demonstrates the ease of using JavaScript frameworks like AngularJS and Bootstrap 
-for UI development in the SAP HANA Cloud Platform.
+for UI development in the SAP HANA Cloud Platform. Refer to the SCN blog on [Developing a sample AngularJS application on the SAP HANA Cloud Platform](http://scn.sap.com/community/developer-center/cloud-platform/blog/2016/04/25/developing-an-angularjs-application-on-the-sap-hana-cloud-platform) for details.
 
 The application uses:
 
