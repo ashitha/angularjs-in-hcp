@@ -25,7 +25,7 @@ The application uses:
   During import, provide the **Application Name** as `angularnorthwindapp` and **Version Name** as `1.0`.
 - [Activate this version](https://help.hana.ondemand.com/help/frameset.htm?dfaaf837ca5f4ff8bb25907a342a1416.html).
 
-##### Step 2: Configure the destination in your HCP developer trial account
+##### Step 2: Configure the Northwind OData service destination in the HCP cockpit
 
 - Import the destination file available at `/angularnorthwindapp/destination/northwind` [into the HCP cockpit](https://help.hana.ondemand.com/help/frameset.htm?a2550c3fcf2b430f94f99072677bf9ec.html).
 
