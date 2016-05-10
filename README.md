@@ -1,8 +1,8 @@
 # AngularJS Sample 
 
 ##What is it?
-This ia a sample application developed on the SAP HANA Cloud Platform using third party frameworks like AngularJS and Bootstrap. 
-The application displays data coming from the standard Northwind OData service.
+This ia a sample application developed on the SAP HANA Cloud Platform using third party frameworks like AngularJS and Bootstrap for UI development. 
+The application displays a list of invoices coming from the sample Northwind OData services.
 
 ## How to run it?
 
@@ -18,8 +18,14 @@ Step 4: [Activate this version](https://help.hana.ondemand.com/help/frameset.htm
  
 Step 5: Import the destination file available at angularnorthwindprj/destination/northwind [into the HCP cockpit](https://help.hana.ondemand.com/help/frameset.htm?a2550c3fcf2b430f94f99072677bf9ec.html).
  
-## Accessing the application.
-Launch the application that is accessible on the URL:
+## Accessing the application
+Launch the application that is accessible on the URL: <BR>
 `https://angularnorthwindprj-<p_user_id>trial.dispatcher.hanatrial.ondemand.com`
 
 Replace the <p_user_id> with your SCN user ID.
+
+
+
+
+
+
