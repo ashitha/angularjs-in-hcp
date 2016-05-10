@@ -20,9 +20,9 @@ The application uses:
 ##### Step 1: Copy the application code into your HCP developer trial account
 
 - Clone the repository or download the repository ZIP. If you download the repository as a ZIP file, unzip it. 
-- Within the repository folder, right click on the angularnorthwindapp folder and create an application archive by named angularnorthwindapp.zip.
+- Within the repository folder, right click on the **angularnorthwindapp** folder and create an application archive by name **angularnorthwindapp.zip**.
 - Import this archive as an HTML5 application in the HCP cockpit - [details](https://help.hana.ondemand.com/help/frameset.htm?b8d879c30b44455d906bfa4c35b8221d.html). <BR>
-  During import, provide the **application name** as `angularnorthwindapp` and **Version Name** as `1.0`.
+  During import, provide the **Application Name** as `angularnorthwindapp` and **Version Name** as `1.0`.
 - [Activate this version](https://help.hana.ondemand.com/help/frameset.htm?dfaaf837ca5f4ff8bb25907a342a1416.html).
 
 ##### Step 2: Configure the destination in your HCP developer trial account
