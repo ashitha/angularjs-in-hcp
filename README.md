@@ -27,13 +27,13 @@ During import, provide the application name as "angularnorthwindprj" and version
 
 ##### Step 2: Configure the destination in your HCP developer trial account
 
-- Import the destination file available at '/angularnorthwindprj/destination/northwind' [into the HCP cockpit](https://help.hana.ondemand.com/help/frameset.htm?a2550c3fcf2b430f94f99072677bf9ec.html).
+- Import the destination file available at `/angularnorthwindprj/destination/northwind` [into the HCP cockpit](https://help.hana.ondemand.com/help/frameset.htm?a2550c3fcf2b430f94f99072677bf9ec.html).
 
 ##### Step 3: Launch the application
 The deployed application would be accessible via the following URL: <BR>
 `https://angularnorthwindprj-pXXXXXtrial.dispatcher.hanatrial.ondemand.com`
 
-Replace 'pXXXXX' with your SCN user ID.
+Replace `pXXXXX` with your SCN user ID.
 
 
 
