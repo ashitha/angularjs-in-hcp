@@ -18,11 +18,11 @@ Step 4: [Activate this version](https://help.hana.ondemand.com/help/frameset.htm
  
 Step 5: Import the destination file available at angularnorthwindprj/destination/northwind [into the HCP cockpit](https://help.hana.ondemand.com/help/frameset.htm?a2550c3fcf2b430f94f99072677bf9ec.html).
  
-## Accessing the application
+#### Accessing the application
 Launch the application that is accessible on the URL: <BR>
 `https://angularnorthwindprj-<p_user_id>trial.dispatcher.hanatrial.ondemand.com`
 
-Replace the <p_user_id> with your SCN user ID.
+Replace the *<p_user_id>* with your SCN UserID.
 
 
 
