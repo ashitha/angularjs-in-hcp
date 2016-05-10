@@ -30,10 +30,12 @@ The application uses:
 - Import the destination file available at `/angularnorthwindapp/destination/northwind` [into the HCP cockpit](https://help.hana.ondemand.com/help/frameset.htm?a2550c3fcf2b430f94f99072677bf9ec.html).
 
 ##### Step 3: Launch the application
-The deployed application would be accessible via the following URL: <BR>
+The deployed application would be accessible on the following URL: <BR>
 `https://angularnorthwindapp-pXXXXXtrial.dispatcher.hanatrial.ondemand.com`
 
-Replace `pXXXXX` with your SCN user ID.
+**Note:** Replace `pXXXXX` with your SCN User ID that was registered with HCP during signup. 
+
+You should see a table displaying list of invoices.
 
 
 
