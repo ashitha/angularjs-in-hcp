@@ -22,9 +22,9 @@ Step 5: Import the destination file available at angularnorthwindprj/destination
  
 ##### Accessing the application
 Launch the application that is accessible on the URL: <BR>
-`https://angularnorthwindprj-*pXXXXX*trial.dispatcher.hanatrial.ondemand.com`
+`https://angularnorthwindprj-pXXXXXtrial.dispatcher.hanatrial.ondemand.com`
 
-Here replace *pXXVXX* with your SCN userID.
+Here replace *pXXXXX* with your SCN userID.
 
 
 
