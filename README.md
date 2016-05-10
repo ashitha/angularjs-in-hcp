@@ -13,30 +13,27 @@ The application uses:
 
 ## How to run it?
 
-##### Step 1: Clone the repository 
+##### Pre-requisites:
+- You should have an [HCP developer(trial)](https://account.hanatrial.ondemand.com/cockpit) account to execute the steps mentioned below.
+- You should be familiar with basics of developing HTML5 applications,AngularJS and Bootstrap.
 
-Clone the repository or download the repository ZIP. If you download the repository as a ZIP file, unzip it. 
+##### Step 1: Copy the application code into your HCP developer trial account
 
-##### Step 2: Create a project archive.
-Within the repository folder, right click on the angularnorthwindprj folder and create an archive file named angularnorthwindprj.zip.
-
-##### Step 3: Import project into HCP
-
-Import this [archive as an HTML5 application in the HCP cockpit](https://help.hana.ondemand.com/help/frameset.htm?b8d879c30b44455d906bfa4c35b8221d.html). 
+- Clone the repository or download the repository ZIP. If you download the repository as a ZIP file, unzip it. 
+- Within the repository folder, right click on the angularnorthwindprj folder and create an archive file named angularnorthwindprj.zip.
+- Import this [archive as an HTML5 application in the HCP cockpit](https://help.hana.ondemand.com/help/frameset.htm?b8d879c30b44455d906bfa4c35b8221d.html). 
 During import, provide the application name as "angularnorthwindprj" and version name as "1.0".
+- [Activate this version](https://help.hana.ondemand.com/help/frameset.htm?dfaaf837ca5f4ff8bb25907a342a1416.html).
 
-##### Step 4: Activate this version
-[Activate this version](https://help.hana.ondemand.com/help/frameset.htm?dfaaf837ca5f4ff8bb25907a342a1416.html).
- 
-##### Step 5: Set the destination in HCP
-Import the destination file available at angularnorthwindprj/destination/northwind [into the HCP cockpit](https://help.hana.ondemand.com/help/frameset.htm?a2550c3fcf2b430f94f99072677bf9ec.html).
- 
-##### Accessing the application
+##### Step 2: Configure the destination in your HCP developer trial account
+
+- Import the destination file available at angularnorthwindprj/destination/northwind [into the HCP cockpit](https://help.hana.ondemand.com/help/frameset.htm?a2550c3fcf2b430f94f99072677bf9ec.html).
+
+##### Step3: Launch the application
 Launch the application that is accessible on the URL: <BR>
 `https://angularnorthwindprj-pXXXXXtrial.dispatcher.hanatrial.ondemand.com`
 
 Replace 'pXXXXX' with your SCN user ID.
-
 
 
 
